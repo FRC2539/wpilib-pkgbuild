@@ -8,7 +8,7 @@ conflicts=('frc-gcc-tools' 'frc-wpilib-git')
 url="https://usfirst.collab.net/sf/projects/wpilib/"
 license=('custom=FRC-BSD')
 depends=('arm-frc-linux-gnueabi-gcc')
-makedepends=('cmake')
+makedepends=('cmake' 'git')
 options=('!strip' 'libtool' 'staticlibs')
 source=("git+https://usfirst.collab.net/gerrit/allwpilib")
 sha512sums=('SKIP')
