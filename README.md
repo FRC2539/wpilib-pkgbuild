@@ -1,4 +1,7 @@
 wpilib-pkgbuild
 ===============
 
-Arch Linux PKGBUILD for building WPILib
+An Arch Linux PKGBUILD for WPILib
+
+It will install WPILib from the official repository.
+
